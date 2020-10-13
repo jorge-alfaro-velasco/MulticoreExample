@@ -12,7 +12,7 @@ namespace EjemploParallel
     {
         static Stopwatch temporizador;
         static Int64 cont, dValorPow, dValorPow1, dValorPow2;
-        static Int64 lim = 1000000000; //Límite es igual a 1 billón 
+        static Int64 lim = 1000000000;
 
         /// <summary>
         /// Método sencuencial. Se realiza una cantidad determinada de iteraciones y en cada
